@@ -96,5 +96,3 @@ Even if you don't submit a complete solution, we're interested in your thought p
 **Please do NOT share any of the code/data from this challenge.**
 
 Good luck!
-
-Copyright (C) 2022 Twosense, Inc.
